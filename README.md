@@ -8,8 +8,6 @@ The Monkey Landing Page is a minimalist yet visually appealing webpage designed 
 ### Why Monkeys?
 Monkeys are fascinating creatures known for their intelligence, agility, and playful nature. By incorporating them into this landing page, I aim to express my admiration for these amazing animals.
 
-![Monkey Landing Page](link_to_image)
-
 Ready to explore the Monkey Landing Page? [Visit now](https://diniscarvalho19.github.io/Monkey-Landing-Page/)!
 
 Feel free to reach out if you have any questions or feedback. Enjoy your visit! 🐒🌿
